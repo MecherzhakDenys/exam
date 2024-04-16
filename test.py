@@ -1,4 +1,5 @@
-
+#ВАРІАНТ 12
+У роботі №3, у файлі test.py модифікувати тест test_sword_with_random_rarity та дописати перевірку що рідкісність меча не може бути рівною None
 
 import unittest
 from unittest.mock import patch
